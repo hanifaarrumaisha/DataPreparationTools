@@ -1,0 +1,7 @@
+pandas
+requests
+tweepy
+urllib3
+bs4
+mysqlclient
+pyforms
